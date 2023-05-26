@@ -43,7 +43,7 @@ public class CardTrick {
      */
     private static void printInfo() {
     
-        System.out.println("Congratulations, you guessed right!");
+        System.out.println("I’m done! Congratulations, you guessed right!");
         System.out.println();
         
         System.out.println("My name is Moises Vera, but you can call me moises");
